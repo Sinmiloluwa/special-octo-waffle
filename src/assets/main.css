@@ -1,0 +1,12 @@
+@import './base.css';
+@import "tailwindcss";
+@import "primeicons/primeicons.css";
+
+/* #app {
+  background-color: white;
+} */
+
+body {
+  background-color: #f9f9f9;
+  color: black;
+}
