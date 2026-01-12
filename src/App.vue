@@ -5,9 +5,9 @@ import Navbar from './components/Header/Navbar.vue';
 </script>
 
 <template>
-  <div class="w-full px-8">
+  <!-- <div class="w-full px-8"> -->
     <RouterView />
-  </div>
+  <!-- </div> -->
 </template>
 
 <style scoped>

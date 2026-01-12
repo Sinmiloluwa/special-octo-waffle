@@ -4,7 +4,7 @@
 
 <template>
     <nav>
-        <div class="flex justify-between items-center bg-transparent text-black py-4">
+        <div class="flex justify-between items-center bg-transparent text-black py-4 px-8">
             <div class="flex items-center gap-2">
                 <i class="pi pi-spin pi-cog" style="font-size: 2rem"></i>
                 <h1>Boldark</h1>

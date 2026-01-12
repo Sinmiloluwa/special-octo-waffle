@@ -3,7 +3,7 @@ import BlueTextBody from './BlueTextBody.vue';
 </script>
 
 <template>
-    <section class="py-16">
+    <section class="py-16 px-8">
         <BlueTextBody>
             <span class="text-xl uppercase py-4">Projects_</span>
         </BlueTextBody>

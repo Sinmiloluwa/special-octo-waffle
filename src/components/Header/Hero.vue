@@ -3,7 +3,7 @@ import BlueTextBody from '../BlueTextBody.vue';
 </script>
 
 <template>
-    <section class="pt-16">
+    <section class="pt-16 px-8">
         <div class="flex items-start">
             <BlueTextBody>
                 <span class="text-xl uppercase">Simply a studio_</span>
